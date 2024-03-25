@@ -2,7 +2,7 @@ import requests
 import json
 
 # Configuration
-#github_token = 'your github token' #uncomment this line at the time practice github not allow to push github token
+github_token = 'your github token' #Replce with your github token
 organization_name = 'vinodkumarpaleti'
 repo_name = 'terraform-python-ec2'
 description = 'This repo is to discuss about python usecases'

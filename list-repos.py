@@ -1,7 +1,7 @@
 import requests
 
 # Configuration
-#github_token = 'your github token' #uncomment this line at the time practice github not allow to push github token
+github_token = 'your github token' #Replce with your github token
 organization_name = 'vinodkumarpaleti'
 HEADERS = {'Authorization': f'token {github_token}'}
 
